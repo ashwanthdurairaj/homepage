@@ -4,7 +4,7 @@ zoom: 89%
 body{
     overflow-x: hidden;
 }
-a hover{
+a: hover{
 color: violet;
 }
 .poda{
