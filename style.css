@@ -1400,16 +1400,15 @@ opacity: 0.7;
 }
 .add{
     position: absolute;
-right: 442px;
-bottom: 366px;
-
+top: 606.38px;
+   left:1141.04px;
 /* Set 1 - Color 34 */
 
 }
 .m{
     position: absolute;
-    right: 442px;
-    bottom: 250px;
+top: 734.88.7px;
+    left: 1140.38px;
 }
 .a{
     position: absolute;
@@ -1520,17 +1519,15 @@ opacity: 0.7;
 }
 .ph{
     position: absolute;
-    right: 442px;
-    bottom: 295px;
-    
+   top:680.7px;
+    left: 1142.71px;
 /* Set 1 - Color 34 */
 
 }
 .mail{
     position: absolute;
-    right: 442px;
-    bottom: 244px;
-    
+    top:739.33px;
+    left:1140.38px;
 /* Set 1 - Color 34 */
 }
 .input-button{
