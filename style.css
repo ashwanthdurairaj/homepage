@@ -179,7 +179,7 @@ top: 4347px;
 }
 .google-play{
     position: absolute;
-width: 100%;/*360px*/
+width: auto;
 height: 116px;
 left: 974px;
 top: 5047px;
